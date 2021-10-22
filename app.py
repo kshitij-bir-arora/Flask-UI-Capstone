@@ -1,3 +1,8 @@
+'''
+Name: Kshitij Bir Arora
+Pheonix day online
+Capstone flask ui
+'''
 from flask import Flask, render_template
 import pandas as pd
 import numpy as np
